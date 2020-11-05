@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="images/keyglove.png" alt="Logo" width="80" height="80">
+  <img src="images/keyglove.png" alt="Logo" width="1000" height="500">
 </p>
 
 <!-- TABLE OF CONTENTS -->
