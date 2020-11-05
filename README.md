@@ -1,4 +1,4 @@
-# The KeyGlove
+# The KeyGlove Fall 2019
 
 <!-- PROJECT LOGO -->
 <br />
@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The KeyGlove was developed to wirelessly control the keyboard and mouse of a computer by processing signals from the user's glove.
+The KeyGlove was designed and developed by a group of students (two computer science students and two bioengineering students) for a class (Wearable Technologies) at the University of Illinois at Chicago. It is able to wirelessly control the keyboard and mouse of a computer by processing signals from the user's glove.
 
 Current features include:
 
